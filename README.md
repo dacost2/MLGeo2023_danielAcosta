@@ -11,3 +11,5 @@
 git clone https://github.com/dacost2/MLGeo2023_danielAcosta.git
 ### Licensing used:  
 MIT because it sounds cool and smart  
+
+### Adding new line from terminal to add+commit+push
